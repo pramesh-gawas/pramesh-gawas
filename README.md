@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramesh-gawas&label=Profile%20views&color=0e75b6&style=flat" alt="pramesh-gawas" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pramesh-gawas](https://github.com/pramesh-gawas)
+- 👨‍💻 All of my projects are available at [https://github.com/pramesh-gawas?tab=repositories](https://github.com/pramesh-gawas?tab=repositories)
 
 - 💬 Ask me about **React js,Express js,Node js,Node js**
 
