@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pramesh-gawas?tab=repositories](https://github.com/pramesh-gawas?tab=repositories)
 
-- 💬 Ask me about **React js,Express js,Node js,Node js**
+- 💬 Ask me about **React js,Express js,Node js,Mongo db **
 
 - 📫 How to reach me **prameshgawas11@gmail.com**
 
