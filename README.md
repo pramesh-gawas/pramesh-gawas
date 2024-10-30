@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramesh</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramesh-gawas&label=Profile%20views&color=0e75b6&style=flat" alt="pramesh-gawas" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pramesh-gawas?tab=repositories](https://github.com/pramesh-gawas?tab=repositories)
 
